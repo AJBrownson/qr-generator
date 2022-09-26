@@ -1,4 +1,4 @@
-# QR CODE GENERATOR
+# QR SPARK - QR GENERATOR
 
 A tool for generating qr codes of websites and also downloading them as png images
 
