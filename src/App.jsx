@@ -23,7 +23,7 @@ const App = () => {
         <h1>QR Generator</h1>
         <input
           type='text'
-          placeholder='e.g. https://facebook.com'
+          placeholder='Enter URL or text'
           value={url}
           onChange={e => setUrl(e.target.value)} />
           
